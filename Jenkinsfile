@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/lane-detection-mlops.git'
+                git 'https://github.com/omkararmugam-glitch/lane-detection-mlops.git'
             }
         }
 
