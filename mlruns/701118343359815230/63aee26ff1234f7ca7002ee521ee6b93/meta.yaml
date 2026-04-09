@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/omkar/OneDrive/Documents/lane detection/mlruns/701118343359815230/63aee26ff1234f7ca7002ee521ee6b93/artifacts
+end_time: 1775748977969
+entry_point_name: ''
+experiment_id: '701118343359815230'
+lifecycle_stage: active
+run_id: 63aee26ff1234f7ca7002ee521ee6b93
+run_name: wise-stag-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775748977563
+status: 3
+tags: []
+user_id: omkar

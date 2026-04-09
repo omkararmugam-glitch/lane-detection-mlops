@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/omkar/OneDrive/Documents/lane detection/mlruns/701118343359815230/c9d4c83c5385499cad1cf5108e7b1cf9/artifacts
+end_time: 1775753156470
+entry_point_name: ''
+experiment_id: '701118343359815230'
+lifecycle_stage: active
+run_id: c9d4c83c5385499cad1cf5108e7b1cf9
+run_name: persistent-conch-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775753156357
+status: 3
+tags: []
+user_id: omkar

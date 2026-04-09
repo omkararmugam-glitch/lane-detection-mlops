@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/omkar/OneDrive/Documents/lane detection/mlruns/701118343359815230/efb10c0ecf5345fd99c910a1e20691a3/artifacts
+end_time: 1775748980490
+entry_point_name: ''
+experiment_id: '701118343359815230'
+lifecycle_stage: active
+run_id: efb10c0ecf5345fd99c910a1e20691a3
+run_name: aged-kite-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775748979859
+status: 3
+tags: []
+user_id: omkar

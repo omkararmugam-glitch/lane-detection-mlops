@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/omkar/OneDrive/Documents/lane detection/mlruns/701118343359815230/7c13b76f67b64c85962ab4aa19d988fb/artifacts
+end_time: 1775753153258
+entry_point_name: ''
+experiment_id: '701118343359815230'
+lifecycle_stage: active
+run_id: 7c13b76f67b64c85962ab4aa19d988fb
+run_name: unruly-fowl-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775753152970
+status: 3
+tags: []
+user_id: omkar

@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+
+  fastapi:
+    build: .
+    container_name: lane-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./mlruns:/app/mlruns
+    depends_on:
+      - mlflow
+
+  mlflow:
+    image: python:3.9
+    container_name: mlflow-server
+    working_dir: /app
+    volumes:
+      - ./mlruns:/app/mlruns
+    command: >
+      bash -c "pip install mlflow &&
+               mlflow ui --host 0.0.0.0 --port 5000 --backend-store-uri /app/mlruns"
+    ports:
+      - "5000:5000"
